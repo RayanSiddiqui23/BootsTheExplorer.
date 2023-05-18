@@ -5,7 +5,21 @@ This game is a word based game. The theme of the game is an adventure game where
 
 
 **Need to have list**
-
-
+2 maps
+Protagonist
+Antagonist
+at least 3 trap/ wrong routes
+elabourite map to give user good experience
+different routes that lead to main end
+A villians lair
+tools the user has to find
+tools that upgrade
+swapable tools
 
 **Nice to have list**
+graphics
+option to switch between characters
+options to use a compass or map
+moveable maps
+more than 3 characters
+
